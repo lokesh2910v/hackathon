@@ -102,39 +102,39 @@ This project not only promotes decentralized education but also demonstrates the
 
 # Website Images
 
-### Screenshot 1
+### Login Form
 ![Screenshot 1](screenshots/1.png)
 
-### Screenshot 2
+### Registeration Form
 ![Screenshot 2](screenshots/2.png)
 
-### Screenshot 3
+### User Dashboard
 ![Screenshot 3](screenshots/3.png)
 
-### Screenshot 4
+### Quize page with category filter 
 ![Screenshot 4](screenshots/4.png)
 
-### Screenshot 5
+### Quize page with Difficulty filter
 ![Screenshot 5](screenshots/5.png)
 
-### Screenshot 6
+### Quize page with Other filters
 ![Screenshot 6](screenshots/6.png)
 
-### Screenshot 7
+### Quiz Attempt page
 ![Screenshot 7](screenshots/7.png)
 
-### Screenshot 8
+### Attempts or Quiz History
 ![Screenshot 8](screenshots/8.png)
 
-### Screenshot 9
+### Quiz reward claim page After succesfull Quiz completion
 ![Screenshot 9](screenshots/9.png)
 
-### Screenshot 10
+### Rewards and Trasaction history 
 ![Screenshot 10](screenshots/10.png)
 
-### Screenshot 11
+### Profile page
 ![Screenshot 11](screenshots/11.png)
 
-### Screenshot 12
+### Connecting to Petra Wallet
 ![Screenshot 12](screenshots/12.png)
 
